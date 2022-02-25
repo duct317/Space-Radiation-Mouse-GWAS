@@ -1,0 +1,14 @@
+crosstype: riself
+geno: gwas_geno.csv
+pheno: gwas_pheno.csv
+phenocovar: gwas_phenocovar.csv
+gmap: gwas_gmap.csv
+alleles:
+- A
+- G
+genotypes:
+  A: 1
+  G: 2
+na.strings:
+- '-'
+- NA
